@@ -1,109 +1,80 @@
-# JARVIS — Autonomous AI Desktop Companion & Executive Controller
+# JARVIS — Your Personal AI Desktop Assistant
 
-<div align="center">
+JARVIS is an intelligent, voice-enabled assistant designed to help you use, control, and automate your computer naturally. Instead of typing into a small chat window or manually clicking through multiple menus, you can simply speak to JARVIS just like you would talk to a real-life personal assistant.
 
-![Platform](https://img.shields.io/badge/Platform-Windows%2011%20%7C%2010-0078D6?style=flat-square&logo=windows)
-![Architecture](https://img.shields.io/badge/Interface-Interactive%20HUD%20%26%20Voice-00ffff?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Proprietary%20%7C%20Commercial%20Preview-4f46e5?style=flat-square)
-![Security](https://img.shields.io/badge/Security-Local%20First%20%7C%20Gated%20Execution-10a37f?style=flat-square)
-
-**Next-Generation Autonomous Desktop Intelligence with Neural Voice, Real-Time Vision, and Deep OS Integration**
-
-</div>
+JARVIS can see what is on your screen, hear your voice, speak back to you with a natural voice, manage your emails, adjust your computer settings, remember your personal preferences, run scheduled tasks while you are away, and even call your smartphone when an urgent task requires your attention.
 
 ---
 
-## ⚡ What is JARVIS?
+## How It Works in Simple Words
 
-**JARVIS** is an autonomous desktop AI companion designed to control, automate, and assist across your personal computer. Unlike traditional text-bound chatbots or fragile browser extension macros, JARVIS operates directly on your operating system with human-grade perception: it sees your screen, listens to your voice, understands your context, and executes complex desktop workflows on your behalf.
+JARVIS acts as your hands and eyes on your computer:
 
-Whether managing your communications, manipulating files, controlling hardware telemetry, or navigating software interfaces, JARVIS behaves as a dedicated, discreet executive assistant right beside you.
-
----
-
-## 🌟 Key Capabilities & Features
-
-### 🎙️ 1. Ultra-Low Latency Neural Voice & Hands-Free Live Mode
-* **Natural Human Presence:** Fluid, conversational voice output with poise, warmth, and natural cadence.
-* **Streaming Speech Synthesis:** Spoken responses stream sentence-by-sentence in real time, delivering instant feedback without awkward processing pauses.
-* **ChatGPT-Style Live Conversation:** A hands-free, continuous spoken dialogue mode that lets you talk naturally with JARVIS while you work.
-
-### 👁️ 2. Multimodal Screen & Visual Perception
-* **Intelligent Screen Awareness:** JARVIS analyzes what is currently displayed on your monitor to interact with buttons, menus, fields, and windows naturally.
-* **Empathetic Webcam Presence:** When enabled, JARVIS detects when you sit down or step away from your desk, adapting greetings and conversational tone to your current fatigue or focus levels.
-* **Biometric Identity Recognition:** Instantly recognizes authorized users when approaching the workstation, tailoring responses and access privileges accordingly.
-
-### 📧 3. Direct Google & Cloud Service Automation
-* **Zero-UI Gmail Control:** Search inboxes, summarize unread threads, compose drafts, and dispatch emails entirely in the background without needing to launch a web browser.
-* **Intelligent Contact Aliasing:** Automatically translates colloquial contact names (e.g., *"Mom"*, *"Team Lead"*, *"Alex"*) into verified email addresses.
-* **Confirmation Safety Gates:** Explicit verbal confirmation protocols prevent accidental email dispatches or unintended outbound communications.
-
-### ⚙️ 4. Deep Operating System & Hardware Telemetry
-* **Native Hardware Controls:** Adjust master volume, mute states, display brightness, and power saver states instantly.
-* **Wireless Connectivity:** Manage Wi-Fi connections and pair with saved Bluetooth peripherals upon voice command.
-* **Application & Window Orchestration:** Launch desktop software, switch between active applications, minimize background clutter, and focus workspace tasks autonomously.
-* **Secure File Operations:** Read, create, rename, organize, and copy local documents and folders safely within managed system paths.
-
-### 🛡️ 5. Built-In Enterprise Safety Architecture
-* **Human-in-the-Loop Confirmation:** High-consequence operations (file deletions, system reboots, external messages, financial activities) automatically pause and request explicit verbal confirmation.
-* **Zero External Telemetry:** All credentials, tokens, preferences, and long-term memory records remain encrypted and stored locally on your machine. Your private documents are never used for generalized third-party model training.
+1. **You Speak or Type:** You can talk to JARVIS hands-free using your microphone or type commands when you need a quiet workspace.
+2. **JARVIS Understands Context:** JARVIS listens to your request, checks your open windows, looks at what is displayed on your screen, and considers your personal habits.
+3. **JARVIS Takes Action:** It carries out tasks directly on your computer—opening applications, reading emails, adjusting sound or brightness, organizing files, or sending updates.
+4. **JARVIS Replies Naturally:** It speaks back in a clear, friendly voice without awkward delays, letting you know the task is completed or asking for your confirmation before taking important actions.
 
 ---
 
-## 🖥️ User Experience & Interfaces
+## Core Features
 
-```
- ┌──────────────────────────────────────────────────────────────┐
- │                     JARVIS DESKTOP SUITE                     │
- ├──────────────────────────────┬───────────────────────────────┤
- │     Cyberpunk HUD Canvas     │     Modern Settings Studio    │
- │  • Real-time system vitals   │  • Multi-key API rotation     │
- │  • Dynamic audio waveform    │  • Identity & contact manager │
- │  • Quick mode switches       │  • Behavioral fine-tuning     │
- │  • Instant safety stop button│  • Direct service integrations│
- └──────────────────────────────┴───────────────────────────────┘
-```
+### 🎙️ Natural Voice Conversations
+* **Talk Hands-Free:** Have natural, back-and-forth spoken conversations without needing to press buttons.
+* **Instant Speech:** Speaks back smoothly and naturally sentence by sentence, so you never have to wait through long pauses.
+* **Smart Listening:** Listens through your computer microphone only when its visual display is active on your screen. When you close or hide the display to work in the background, your computer microphone and speakers are automatically silenced.
 
-1. **Floating Holographic HUD:** A lightweight, non-intrusive desktop overlay that provides visual feedback, real-time activity logs, CPU/RAM telemetry, and instant manual override buttons.
-2. **Text Chat Mode:** A distraction-free desktop window for times when spoken voice interaction isn't preferred (e.g., quiet workspaces or library environments).
-3. **Settings Studio:** A comprehensive dark-themed control center to manage credentials, personal habits, contact profiles, and behavioral directives.
+### 👁️ Screen and Visual Awareness
+* **Understands Your Screen:** Looks at your monitor to help you click buttons, find information, read documents, and navigate applications.
+* **Friendly Presence (Optional):** Can use your webcam to notice when you sit down at your desk or step away, greeting you warmly when you arrive.
+* **Face Recognition (Optional):** Can recognize your face to confirm your identity before unlocking access to private features.
 
----
+### ⏰ 24/7 Background Automations & Scheduled Tasks
+* **Always Ready in the Background:** Even if you close the main screen display, JARVIS stays alert in the background to handle upcoming tasks.
+* **Scheduled Reminders & Actions:** Set tasks for any date and time (such as *"Check my important emails every morning at 9:00 AM"* or *"Remind me to submit my report"*). JARVIS wakes up automatically, performs the task, and informs you of the results.
 
-## 💬 Natural Interaction Examples
+### 📞 Smartphone Calling & Mobile Companion
+* **Calls Your Phone:** If you schedule an important reminder or if something urgent occurs while you are away from your desk, JARVIS can call your mobile phone, speak to you directly, and give you a spoken briefing.
+* **Call Transcripts:** Keeps a neat, readable record of every phone call conversation on your computer so you can review what was discussed at any time.
+* **Remote Screen View:** Can securely stream your computer screen to your mobile phone so you can check on long-running tasks or documents when you are in another room.
 
-| What You Say | How JARVIS Responds |
-|---|---|
-| *"Jarvis, send an email to Mom saying I'm running 20 minutes late."* | Prepares the email via direct API, presents a preview card, asks for confirmation, and dispatches it seamlessly. |
-| *"Any unread messages from accounting today?"* | Queries your inbox in the background and reads a concise 2-sentence summary of matching threads. |
-| *"Turn down the volume to 30% and dim the screen."* | Adjusts OS hardware telemetry directly without opening any configuration menus. |
-| *"Find an ESP32 tutorial on YouTube and open it on my screen."* | Launches the desktop media application, navigates the interface, and starts playback autonomously. |
-| *"Take a note from my clipboard and save it as meeting_notes.txt."* | Extracts current clipboard memory, creates the file, and stores it in your documents workspace. |
+### 📧 Hands-Free Email Management
+* **Inbox Summaries:** Ask JARVIS to check your inbox, and it will search for your most important unread emails and read you a clear, concise summary.
+* **Compose & Send by Voice:** Dictate an email to anyone in your contacts without opening a web browser.
+* **Safety Confirmation:** Always asks for your explicit verbal confirmation before dispatching an email so that nothing is ever sent by mistake.
 
----
+### ⚙️ Computer & Hardware Control
+* **Sound & Screen:** Adjust volume, mute audio, or change display brightness with a simple voice command.
+* **Wireless Connections:** Connect to Wi-Fi networks and pair with saved Bluetooth devices.
+* **App & Window Navigation:** Open programs, switch between active windows, minimize distractions, and close applications.
+* **File Management:** Create, open, rename, and organize folders and documents safely.
 
-## 🔒 Privacy & Data Sovereignty
+### 🧠 Intelligent Memory & Self-Cleaning Knowledge
+* **Remembers Your Habits:** Learns your favorite applications, preferences, and personal notes over time so you never have to repeat instructions.
+* **Memory Viewer:** Open the settings menu to view the exact history and notes JARVIS has stored.
+* **Compress Memory with AI:** Click a single button to have the assistant intelligently review its entire history and summarize it into a compact, clean paragraph (between 100 and 500 words), filtering out unnecessary clutter while keeping all vital context.
+* **You Stay in Control:** Whenever memory is compressed, you receive a full side-by-side preview and decide whether to replace the old memory or keep your full history. You can also wipe memory completely at any time.
 
-* **Client-Side Execution:** Core application state, voice models, vision pipelines, and system automation scripts run locally on your hardware.
-* **Local Credential Storage:** API tokens and OAuth authorizations remain on your computer and are communicated exclusively to authorized vendor endpoints over encrypted TLS channels.
-* **Instant Revocation:** Any integration can be disconnected or wiped directly from the Settings menu with one click.
-
----
-
-## 📋 System Requirements
-
-* **Operating System:** Windows 10 / 11 (64-bit)
-* **Processor:** Intel Core i5 / AMD Ryzen 5 or higher
-* **Memory:** 8 GB RAM minimum (16 GB recommended for concurrent vision tasks)
-* **Audio:** Standard microphone and speakers / headset
-* **Optional:** Standard USB or integrated webcam (for empathetic presence detection)
+### 🛡️ Safety & Privacy First
+* **Asks Before Critical Actions:** For sensitive tasks like sending emails, deleting files, or restarting your computer, JARVIS pauses and asks for your confirmation first.
+* **Local to Your Machine:** Your personal notes, files, call logs, and preferences stay strictly on your personal computer. Nothing is stored on external developer databases or used to train public models.
 
 ---
 
-## ⚖️ Commercial Licensing & Notice
+## Everyday Examples of What You Can Say
 
-> [!IMPORTANT]
-> **Proprietary Commercial Software**  
-> Copyright © 2026 JARVIS System Technologies. All rights reserved.  
-> 
-> This software is proprietary and confidential. Unauthorized copying, reverse engineering, decompilation, redistribution, or modification of this software, in whole or in part, is strictly prohibited. Commercial licensing, subscriptions, and distribution terms are governed under individual commercial enterprise agreements.
+* *"Check for my important emails and summarize them for me."*
+* *"Call my phone at 3 PM and brief me on my afternoon schedule."*
+* *"Turn the screen brightness down to 40% and set the volume to 50%."*
+* *"Open my project folder and launch my text editor."*
+* *"Draft an email to Mom saying I will be home by 7 PM, but ask me before sending."*
+* *"Compress your memory to clean out old logs."*
+
+---
+
+## System Requirements
+
+* **Operating System:** Windows 10 or Windows 11 (64-bit)
+* **Audio:** Microphone and speakers or a headset
+* **Optional:** Standard webcam (if you wish to enable presence and face recognition)
+* **Internet Connection:** Required for voice responses, email features, and mobile phone calling
